@@ -1,0 +1,5 @@
+Based on your question "where is form taught", I think it's related to the video "Id & Classes in HTML" (video number 9).
+
+In this video, forms and input tags are discussed. Specifically, at around 25.56 seconds into the video, you can see a demonstration of how to use a class named "Red" with a div and a form.
+
+Is that what you're looking for? You can find more information about forms and input tags in HTML by watching this video. Let me know if I'm correct!

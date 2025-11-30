@@ -1,0 +1,6 @@
+I am a Master’s student working on a computer science project focused on intelligent video and audio content retrieval. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Basic Structure of an HTML Website","number":"3","start":446.0,"end":447.4,"text":" Like if I talk about forms,"},{"title":"Your First HTML Website","number":"2","start":1635.44,"end":1636.44,"text":" as a paid course"},{"title":"Id & Classes in HTML","number":"9","start":25.56,"end":29.76,"text":" For example, you can give a class named Red to a div and a form."},{"title":"Forms and input tags in HTML","number":"7","start":0.0,"end":4.88,"text":" In this video, we will know what are forms and what is the input tag in the form."},{"title":"Your First HTML Website","number":"2","start":1370.44,"end":1371.44,"text":" this course?"}]
+---------------------------------
+"where is form taught"
+User asked this question related to the video chunks, you have to answer in a human way where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
